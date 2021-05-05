@@ -1,0 +1,3 @@
+dentro da imagem a um texto no lado escuro, esta e a senha para tirar o texto com o steghide
+apos isto me deu um txt com a cifra de cesar, coloquei no dcode.com e testei o brute force
+assim me deu que com 13 respondia, coloquei em 13 e me deu a chave.

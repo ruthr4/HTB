@@ -1,0 +1,23 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Mon Apr  8 12:51:04 2019
+Invocation: foremost -o ./public/stego/Mona.jpg.dir/foremost -i /tmp/stego-Mona.jpg 
+Output directory: /home/rhalyc/projects/myWebTools/public/stego/Mona.jpg.dir/foremost
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: /tmp/stego-Mona.jpg
+Start: Mon Apr  8 12:51:04 2019
+Length: 119 KB (122869 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.jpg 	     119 KB 	          0 	 
+Finish: Mon Apr  8 12:51:04 2019
+
+1 FILES EXTRACTED
+	
+jpg:= 1
+------------------------------------------------------------------
+
+Foremost finished at Mon Apr  8 12:51:04 2019

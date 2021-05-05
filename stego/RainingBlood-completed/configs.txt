@@ -1,0 +1,8 @@
+RainingBlood
+
+usei o secsy para verificar os problemas, nada. Ele gerou outro jpg do jpg tirado do mp3
+
+apos isto utiliza o strings para procurar string dentro dos frames do mp3
+
+procura por == no final para ser um base64 e voala
+

@@ -1,0 +1,23 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Sun Feb 24 19:54:10 2019
+Invocation: foremost -o ./public/stego/RainingBlood.mp3.dir/foremost -i /tmp/stego-RainingBlood.mp3 
+Output directory: /home/rhalyc/projects/myWebTools/public/stego/RainingBlood.mp3.dir/foremost
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: /tmp/stego-RainingBlood.mp3
+Start: Sun Feb 24 19:54:10 2019
+Length: 9 MB (10296936 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.jpg 	      18 KB 	        257 	 
+Finish: Sun Feb 24 19:54:10 2019
+
+1 FILES EXTRACTED
+	
+jpg:= 1
+------------------------------------------------------------------
+
+Foremost finished at Sun Feb 24 19:54:10 2019

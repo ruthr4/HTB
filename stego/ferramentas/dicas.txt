@@ -1,0 +1,6 @@
+stegcrack file wordlist -> ferramenta ja instalada no kali pra crackear stegonography
+
+em ferramentas tem o zipcrack
+python zipcrack,py -f file -w wordlist -> pra crackear zip files com wordlist
+
+

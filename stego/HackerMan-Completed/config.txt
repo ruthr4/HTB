@@ -1,0 +1,6 @@
+o hackerman tinha uma senha para o stego, 
+utilizando stegcracker e usando a lista de word rockyou
+consegui a senha e utilizei o steghide para retirar o arquivo
+assim gerou um texto em base 64, utilizei o base64 --decode
+e gerou a chave
+

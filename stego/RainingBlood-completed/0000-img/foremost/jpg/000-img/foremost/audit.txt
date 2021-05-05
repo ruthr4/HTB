@@ -1,0 +1,23 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Wed Apr 11 16:47:31 2018
+Invocation: foremost -o ./public/stego/00000000.jpg.dir/foremost -i /tmp/stego-00000000.jpg 
+Output directory: /home/rhalyc/projects/myWebTools/public/stego/00000000.jpg.dir/foremost
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: /tmp/stego-00000000.jpg
+Start: Wed Apr 11 16:47:31 2018
+Length: 8 KB (8754 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.jpg 	       8 KB 	          0 	 
+Finish: Wed Apr 11 16:47:31 2018
+
+1 FILES EXTRACTED
+	
+jpg:= 1
+------------------------------------------------------------------
+
+Foremost finished at Wed Apr 11 16:47:31 2018
